@@ -1,0 +1,53 @@
+/* Some Past year failure section  */
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Mada', sans-serif;
+}
+
+.past-year-failure {
+    display: flex;
+    justify-content: center;
+    margin-top: 130px;
+    align-items: center;
+}
+
+.past-year-failure img {
+    margin-left: 206px;
+    margin-right: 87px;
+    height: 723.3px;
+}
+
+.details-of-failure {
+    margin-right: 322px;
+    padding: 10px;
+    margin-top: 120px;
+}
+
+.failure-section-title {
+    font-weight: 700;
+    font-size: 40px;
+    color: #151414;
+    margin-bottom: 24px;
+}
+
+.failure-section-description {
+    color: #444343;
+    font-weight: 400;
+    font-size: 16px;
+    margin-bottom: 16px;
+
+}
+
+.list-of-failures {
+    font-weight: 400;
+font-size: 16px;
+color: #444343;
+margin-bottom: 8px;
+}
+.details-of-failure .fa-solid{
+    color: #16D887;
+    margin-right: 3px;
+}

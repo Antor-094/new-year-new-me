@@ -55,6 +55,11 @@ footer {
     margin-right: 17px;
 }
 
+.social-media a:hover {
+    cursor: pointer;
+    
+}
+
 .subscribe-form {
     width: 325px;
     height: 204px;
@@ -86,7 +91,12 @@ footer {
     color: #FFFFFF;
     padding: 20px 36px;
     font-weight: 600;
-font-size: 20px;
-border-radius: 7px;
+    font-size: 20px;
+    border-radius: 7px;
 
+}
+
+.subscribe-btn:hover {
+    background-color: #F15B22;
+    cursor: pointer;
 }

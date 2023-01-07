@@ -43,11 +43,51 @@
 
 .list-of-failures {
     font-weight: 400;
-font-size: 16px;
-color: #444343;
-margin-bottom: 8px;
+    font-size: 16px;
+    color: #444343;
+    margin-bottom: 8px;
 }
-.details-of-failure .fa-solid{
+
+.details-of-failure .fa-solid {
     color: #16D887;
     margin-right: 3px;
+}
+
+
+/* MY future plan section */
+
+.my-plan-section {
+    padding: 3px;
+}
+
+.my-plan-text {
+    text-align: center;
+    margin-top: 130px;
+    color: #151414;
+    font-weight: 700;
+    font-size: 40px;
+}
+
+.my-determination-list {
+    display: flex;
+    justify-content: center;
+
+}
+
+.learning-and-quitting-activities {
+    margin: 60px 60px 125px 60px;
+    text-align: center;
+
+}
+
+.activity-name {
+    font-weight: 700;
+    font-size: 30px;
+    color: #151414;
+}
+
+.my-aim {
+    font-weight: 500;
+    font-size: 25px;
+    color: #737272;
 }
